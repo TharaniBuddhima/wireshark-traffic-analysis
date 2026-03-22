@@ -1,0 +1,20 @@
+Wireshark Traffic Analysis
+
+1. Captured packets using Wi-Fi interface
+
+2. Observed DNS queries to google.com
+DNS packets were analyzed to identify domain names.
+Queries showed requests to domains such as google.com.
+Responses provided corresponding IP addresses.
+
+3. ICMP packets generated using ping command
+ICMP packets were analyzed using ping commands.
+Echo request and reply packets were observed.
+This confirms successful communication between devices.
+
+4. HTTP traffic analyzed 
+HTTP packets were analyzed to identify requested web resources.
+The "Host" field shows the requested website.
+
+Conclusion:
+Basic network traffic successfully captured and analyzed.
