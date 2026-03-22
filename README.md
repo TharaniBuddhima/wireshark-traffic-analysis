@@ -1,3 +1,4 @@
+
 # Wireshark Network Traffic Analysis
 
 ## Objective
@@ -14,6 +15,21 @@ Capture and analyze network packets using Wireshark.
 ## Files
 - capture.pcapng
 - analysis.txt
+
+## Screenshots
+
+### DNS Analysis
+![DNS](images/dns.png)
+
+### ICMP Analysis
+![ICMP](images/icmp.png)
+
+### HTTP Analysis
+![HTTP](images/http.png)
+
+### Capture Details
+![Capture](images/capture.png)
+
 
 ## Conclusion
 This project demonstrates basic packet analysis skills.
